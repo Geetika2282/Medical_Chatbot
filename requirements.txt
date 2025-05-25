@@ -1,0 +1,7 @@
+streamlit
+groq
+langchain
+langchain-groq
+scipy
+numpy
+python-dotenv
