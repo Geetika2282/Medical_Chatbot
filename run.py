@@ -125,6 +125,7 @@ if language != st.session_state.language:
 # Main title and health tip
 st.title("HealthSync Assistant")
 st.markdown("Your AI-powered health companion. Always consult a doctor for medical advice.")
+st.markdown("Created by Geetika Kanwar")
 st.markdown('<div class="health-tip">💡 Daily Tip: Stay hydrated! Aim for 8 glasses of water daily.</div>', unsafe_allow_html=True)
 
 # Tool-specific logic
