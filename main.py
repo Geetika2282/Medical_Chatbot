@@ -19,7 +19,7 @@ if not groq_api_key:
 st.set_page_config(page_title="Health Assistant", layout="wide")
 st.title("Health Assistant Chatbot")
 st.write("Ask health-related questions or type 'BMI' to calculate your BMI. Always consult a doctor for medical advice.")
-
+st.write("Created by Geeetika Kanwar")
 # System prompt for health-domain specificity
 system_prompt = """
 You are a health assistant specializing in general health information. Provide accurate, safe, and concise answers to health-related questions. Always include a disclaimer that you are not a doctor and that users should consult a healthcare professional for medical advice. For non-health questions, politely redirect to health topics.
