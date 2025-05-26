@@ -1,5 +1,5 @@
-https://medicalchatbot-diseasesymptoms.streamlit.app/
-https://medicalchatbot-cwewg6xygbxcwfsp2muay3.streamlit.app/
+### https://medicalchatbot-diseasesymptoms.streamlit.app/
+### https://medicalchatbot-cwewg6xygbxcwfsp2muay3.streamlit.app/
 # 🩺 Health Assistant Chatbot
 
 A conversational AI chatbot built with **Streamlit**, **LangChain**, and **Groq's LLaMA 3.1 model** that specializes in general health information and BMI calculations. It provides helpful insights and answers to health-related queries with a clear disclaimer that it's not a substitute for professional medical advice.
